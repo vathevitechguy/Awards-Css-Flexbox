@@ -11,5 +11,3 @@ You will need:
 3. Text
 4. Images
 5. Links **(to a website!)**
-
-**Consult the rubric on Google Classroom to see how your project will be scored.**
